@@ -13,7 +13,7 @@ class Solution(object):
         :type l2: ListNode
         :rtype: ListNode
         """
-        root = ListNode(0)
+        root = ListNode(0)  
         result = root
         excess = 0
         while l1 or l2 or excess:
