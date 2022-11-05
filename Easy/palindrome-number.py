@@ -1,8 +1,12 @@
-
+#Problem: https://leetcode.com/problems/palindrome-number/description/
+'''
+Given an integer x, return true if x is a 
+palindrome, and false otherwise.
+'''
 
 class Solution:
     def isPalindrome(self, x: int) -> bool:
-        if x < 0 or (x > 0 and x%10 == 0):   # if x is negative, return False. if x is positive and last digit is 0, that also cannot form a palindrome, return False.
+        if x < 0 or (x > 0 and x % 10 == 0): 
             return False
         
         result = 0
@@ -10,7 +14,7 @@ class Solution:
             result = result * 10 + x % 10
             x = x // 10
             
-        return True if (x == result or x == result // 10) else False
+        return x == result or x == result // 10
 
 
 x = 121
