@@ -1,0 +1,15 @@
+C:\Users\reiden\Desktop\github\LeetCodeGrind\Easy\LCP\bin\Debug\net8.0\LCP.exe
+C:\Users\reiden\Desktop\github\LeetCodeGrind\Easy\LCP\bin\Debug\net8.0\LCP.deps.json
+C:\Users\reiden\Desktop\github\LeetCodeGrind\Easy\LCP\bin\Debug\net8.0\LCP.runtimeconfig.json
+C:\Users\reiden\Desktop\github\LeetCodeGrind\Easy\LCP\bin\Debug\net8.0\LCP.dll
+C:\Users\reiden\Desktop\github\LeetCodeGrind\Easy\LCP\bin\Debug\net8.0\LCP.pdb
+C:\Users\reiden\Desktop\github\LeetCodeGrind\Easy\LCP\obj\Debug\net8.0\LCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reiden\Desktop\github\LeetCodeGrind\Easy\LCP\obj\Debug\net8.0\LCP.AssemblyInfoInputs.cache
+C:\Users\reiden\Desktop\github\LeetCodeGrind\Easy\LCP\obj\Debug\net8.0\LCP.AssemblyInfo.cs
+C:\Users\reiden\Desktop\github\LeetCodeGrind\Easy\LCP\obj\Debug\net8.0\LCP.csproj.CoreCompileInputs.cache
+C:\Users\reiden\Desktop\github\LeetCodeGrind\Easy\LCP\obj\Debug\net8.0\LCP.sourcelink.json
+C:\Users\reiden\Desktop\github\LeetCodeGrind\Easy\LCP\obj\Debug\net8.0\LCP.dll
+C:\Users\reiden\Desktop\github\LeetCodeGrind\Easy\LCP\obj\Debug\net8.0\refint\LCP.dll
+C:\Users\reiden\Desktop\github\LeetCodeGrind\Easy\LCP\obj\Debug\net8.0\LCP.pdb
+C:\Users\reiden\Desktop\github\LeetCodeGrind\Easy\LCP\obj\Debug\net8.0\LCP.genruntimeconfig.cache
+C:\Users\reiden\Desktop\github\LeetCodeGrind\Easy\LCP\obj\Debug\net8.0\ref\LCP.dll
