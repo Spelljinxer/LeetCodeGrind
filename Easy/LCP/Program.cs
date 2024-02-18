@@ -1,4 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿/*
+* Problem https://leetcode.com/problems/longest-common-prefix
+* Write a function to find the longest common prefix string amongst an array of strings.
+* If there is no common prefix, return an empty string "".
+*/
 using System;
 
 public class Solution {
