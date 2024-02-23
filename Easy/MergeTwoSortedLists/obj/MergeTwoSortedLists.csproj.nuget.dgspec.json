@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\reiden\\Desktop\\github\\LeetCodeGrind\\Easy\\LCP\\LCP.csproj": {}
+    "C:\\Users\\reiden\\Desktop\\github\\LeetCodeGrind\\Easy\\MergeTwoSortedLists\\MergeTwoSortedLists.csproj": {}
   },
   "projects": {
-    "C:\\Users\\reiden\\Desktop\\github\\LeetCodeGrind\\Easy\\LCP\\LCP.csproj": {
+    "C:\\Users\\reiden\\Desktop\\github\\LeetCodeGrind\\Easy\\MergeTwoSortedLists\\MergeTwoSortedLists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\reiden\\Desktop\\github\\LeetCodeGrind\\Easy\\LCP\\LCP.csproj",
-        "projectName": "LCP",
-        "projectPath": "C:\\Users\\reiden\\Desktop\\github\\LeetCodeGrind\\Easy\\LCP\\LCP.csproj",
+        "projectUniqueName": "C:\\Users\\reiden\\Desktop\\github\\LeetCodeGrind\\Easy\\MergeTwoSortedLists\\MergeTwoSortedLists.csproj",
+        "projectName": "MergeTwoSortedLists",
+        "projectPath": "C:\\Users\\reiden\\Desktop\\github\\LeetCodeGrind\\Easy\\MergeTwoSortedLists\\MergeTwoSortedLists.csproj",
         "packagesPath": "C:\\Users\\reiden\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\reiden\\Desktop\\github\\LeetCodeGrind\\Easy\\LCP\\obj\\",
+        "outputPath": "C:\\Users\\reiden\\Desktop\\github\\LeetCodeGrind\\Easy\\MergeTwoSortedLists\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\reiden\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\program files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
